@@ -1,8 +1,8 @@
 # Simple Bottom Sheet For Android.
 
 # Hexadecimal Beautifull Colors Codes:
-    - 0xFF00F15F or 00F15F
-    - 0xCDFF5337 or FF5337
+    - Green: 0xFF00F15F or 00F15F
+    - Red:   0xCDFF5337 or FF5337
 
 # Screenshots:
 <img width="47%" alt="Screenshot0" src="https://github.com/user-attachments/assets/212e4c6c-db27-4c9d-8b3a-826256add1c1" />
